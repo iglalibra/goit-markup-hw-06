@@ -802,7 +802,6 @@ outline: none;
 .form-agreement {
   display: flex;
   gap: 8px;
-  justify-content: center;
   align-items: center;
   margin-bottom: 24px;
 }
